@@ -11,7 +11,8 @@
         "count_pos": "0",
         "test_timeout": 5,
         "bug_type": "",
-        "difficulty": "Easy"
+        "difficulty": "$1",
+        "test_framework": "mocha"
     },
     {
         "id": 2,
@@ -25,7 +26,8 @@
         "count_pos": "0",
         "test_timeout": 5,
         "bug_type": "",
-        "difficulty": "Easy"
+        "difficulty": "$1",
+        "test_framework": "mocha"
     },
     {
         "id": 3,
@@ -39,7 +41,8 @@
         "count_pos": "0",
         "test_timeout": 5,
         "bug_type": "",
-        "difficulty": "Easy"
+        "difficulty": "$1",
+        "test_framework": "mocha"
     },
     {
         "id": 4,
@@ -53,7 +56,8 @@
         "count_pos": "0",
         "test_timeout": 5,
         "bug_type": "",
-        "difficulty": "Easy"
+        "difficulty": "$1",
+        "test_framework": "mocha"
     },
     {
         "id": 5,
