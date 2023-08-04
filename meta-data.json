@@ -524,6 +524,11 @@
         "count_neg": "1",
         "count_pos": "1",
         "test_timeout": 5,
-        "bug_type": "Medium"
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
+        "difficulty": "Medium",
+        "test_framework": "mocha",
+        "language": "javascript"
     }
 ]
