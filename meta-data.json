@@ -5,12 +5,20 @@
         "bug_id": "bug_1",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1"],
-        "passing_test": ["test_0.js::test_0","test_2.js::test_2"],
+        "failing_test": [
+            "test_1.js::test_1"
+        ],
+        "passing_test": [
+            "test_0.js::test_0",
+            "test_2.js::test_2"
+        ],
         "count_neg": "1",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Easy",
         "test_framework": "mocha",
         "language": "javascript"
@@ -21,12 +29,20 @@
         "bug_id": "bug_2",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1"],
-        "passing_test": ["test_0.js::test_0","test_2.js::test_2"],
+        "failing_test": [
+            "test_1.js::test_1"
+        ],
+        "passing_test": [
+            "test_0.js::test_0",
+            "test_2.js::test_2"
+        ],
         "count_neg": "1",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Easy",
         "test_framework": "mocha",
         "language": "javascript"
@@ -37,12 +53,20 @@
         "bug_id": "bug_3",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1"],
-        "passing_test": ["test_0.js::test_0","test_2.js::test_2"],
+        "failing_test": [
+            "test_1.js::test_1"
+        ],
+        "passing_test": [
+            "test_0.js::test_0",
+            "test_2.js::test_2"
+        ],
         "count_neg": "1",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Easy",
         "test_framework": "mocha",
         "language": "javascript"
@@ -53,12 +77,19 @@
         "bug_id": "bug_1",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1"],
-        "passing_test": ["test_0.js::test_0"],
+        "failing_test": [
+            "test_1.js::test_1"
+        ],
+        "passing_test": [
+            "test_0.js::test_0"
+        ],
         "count_neg": "1",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Easy",
         "test_framework": "mocha",
         "language": "javascript"
@@ -69,12 +100,21 @@
         "bug_id": "bug_1",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_1.js::test_1","test_2.js::test_2"],
-        "passing_test": ["test_3.js::test_3"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_3.js::test_3"
+        ],
         "count_neg": "3",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -85,12 +125,21 @@
         "bug_id": "bug_2",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_3.js::test_3"],
-        "passing_test": ["test_1.js::test_1","test_2.js::test_2"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_3.js::test_3"
+        ],
+        "passing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
         "count_neg": "2",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -101,12 +150,21 @@
         "bug_id": "bug_3",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_3.js::test_3"],
-        "passing_test": ["test_1.js::test_1","test_2.js::test_2"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_3.js::test_3"
+        ],
+        "passing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
         "count_neg": "2",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -117,12 +175,21 @@
         "bug_id": "bug_4",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_1.js::test_1","test_3.js::test_3"],
-        "passing_test": ["test_2.js::test_2"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1",
+            "test_3.js::test_3"
+        ],
+        "passing_test": [
+            "test_2.js::test_2"
+        ],
         "count_neg": "3",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -133,12 +200,21 @@
         "bug_id": "bug_1",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1","test_2.js::test_2"],
-        "passing_test": ["test_0.js::test_0","test_3.js::test_3"],
+        "failing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_0.js::test_0",
+            "test_3.js::test_3"
+        ],
         "count_neg": "2",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -149,12 +225,21 @@
         "bug_id": "bug_2",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1","test_2.js::test_2"],
-        "passing_test": ["test_0.js::test_0","test_3.js::test_3"],
+        "failing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_0.js::test_0",
+            "test_3.js::test_3"
+        ],
         "count_neg": "2",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -165,12 +250,21 @@
         "bug_id": "bug_3",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_1.js::test_1","test_3.js::test_3"],
-        "passing_test": ["test_2.js::test_2"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1",
+            "test_3.js::test_3"
+        ],
+        "passing_test": [
+            "test_2.js::test_2"
+        ],
         "count_neg": "3",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -181,12 +275,21 @@
         "bug_id": "bug_4",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_1.js::test_1","test_2.js::test_2"],
-        "passing_test": ["test_3.js::test_3"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_3.js::test_3"
+        ],
         "count_neg": "3",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -197,12 +300,21 @@
         "bug_id": "bug_5",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_1.js::test_1","test_3.js::test_3"],
-        "passing_test": ["test_2.js::test_2"],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1",
+            "test_3.js::test_3"
+        ],
+        "passing_test": [
+            "test_2.js::test_2"
+        ],
         "count_neg": "3",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -213,12 +325,20 @@
         "bug_id": "bug_1",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_1.js::test_1","test_2.js::test_2"],
-        "passing_test": ["test_0.js::test_0"],
+        "failing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_0.js::test_0"
+        ],
         "count_neg": "2",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -229,12 +349,68 @@
         "bug_id": "bug_2",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_2.js::test_2"],
-        "passing_test": ["test_0.js::test_0","test_1.js::test_1"],
+        "failing_test": [
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1"
+        ],
         "count_neg": "1",
         "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
+        "difficulty": "Medium",
+        "test_framework": "mocha",
+        "language": "javascript"
+    },
+    {
+        "id": 16,
+        "subject": "partition-string-into-minimum-beautiful-substrings",
+        "bug_id": "bug_1",
+        "source_file": "solution.js",
+        "line_numbers": [],
+        "failing_test": [
+            "test_0.js::test_0"
+        ],
+        "passing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "count_neg": "1",
+        "count_pos": "2",
+        "test_timeout": 5,
+        "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
+        "difficulty": "Medium",
+        "test_framework": "mocha",
+        "language": "javascript"
+    },
+    {
+        "id": 17,
+        "subject": "partition-string-into-minimum-beautiful-substrings",
+        "bug_id": "bug_2",
+        "source_file": "solution.js",
+        "line_numbers": [],
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_2.js::test_2"
+        ],
+        "passing_test": [
+            "test_1.js::test_1"
+        ],
+        "count_neg": "2",
+        "count_pos": "1",
+        "test_timeout": 5,
+        "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -242,15 +418,23 @@
     {
         "id": 18,
         "subject": "partition-string-into-minimum-beautiful-substrings",
-        "bug_id": "bug_1",
+        "bug_id": "bug_3",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0"],
-        "passing_test": ["test_1.js::test_1","test_2.js::test_2"],
-        "count_neg": "1",
-        "count_pos": "2",
+        "failing_test": [
+            "test_0.js::test_0",
+            "test_1.js::test_1"
+        ],
+        "passing_test": [
+            "test_2.js::test_2"
+        ],
+        "count_neg": "2",
+        "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
@@ -258,91 +442,85 @@
     {
         "id": 19,
         "subject": "partition-string-into-minimum-beautiful-substrings",
-        "bug_id": "bug_2",
+        "bug_id": "bug_4",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_2.js::test_2"],
-        "passing_test": ["test_1.js::test_1"],
-        "count_neg": "2",
-        "count_pos": "1",
+        "failing_test": [
+            "test_0.js::test_0"
+        ],
+        "passing_test": [
+            "test_1.js::test_1",
+            "test_2.js::test_2"
+        ],
+        "count_neg": "1",
+        "count_pos": "2",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
     },
     {
         "id": 20,
-        "subject": "partition-string-into-minimum-beautiful-substrings",
-        "bug_id": "bug_3",
+        "subject": "minimum-operations-to-make-the-integer-zero",
+        "bug_id": "bug_1",
         "source_file": "solution.js",
         "line_numbers": [],
-        "failing_test": ["test_0.js::test_0","test_1.js::test_1"],
-        "passing_test": ["test_2.js::test_2"],
-        "count_neg": "2",
+        "passing_test": [
+            "test_1.js::test_1"
+        ],
+        "failing_test": [
+            "test_0.js::test_0"
+        ],
+        "count_neg": "1",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
     },
     {
         "id": 21,
-        "subject": "partition-string-into-minimum-beautiful-substrings",
-        "bug_id": "bug_4",
-        "source_file": "solution.js",
-        "line_numbers": [],
-        "failing_test": ["test_0.js::test_0"],
-        "passing_test": ["test_1.js::test_1","test_2.js::test_2"],
-        "count_neg": "1",
-        "count_pos": "2",
-        "test_timeout": 5,
-        "bug_type": "",
-        "difficulty": "Medium",
-        "test_framework": "mocha",
-        "language": "javascript"
-    },
-    {
-        "id": 24,
-        "subject": "minimum-operations-to-make-the-integer-zero",
-        "bug_id": "bug_1",
-        "source_file": "solution.js",
-        "line_numbers": [],
-        "passing_test": ["test_1.js::test_1"],
-        "failing_test": ["test_0.js::test_0"],
-        "count_neg": "1",
-        "count_pos": "1",
-        "test_timeout": 5,
-        "bug_type": "",
-        "difficulty": "Medium",
-        "test_framework": "mocha",
-        "language": "javascript"
-    },
-    {
-        "id": 25,
         "subject": "minimum-operations-to-make-the-integer-zero",
         "bug_id": "bug_2",
         "source_file": "solution.js",
         "line_numbers": [],
-        "passing_test": ["test_1.js::test_1"],
-        "failing_test": ["test_0.js::test_0"],
+        "passing_test": [
+            "test_1.js::test_1"
+        ],
+        "failing_test": [
+            "test_0.js::test_0"
+        ],
         "count_neg": "1",
         "count_pos": "1",
         "test_timeout": 5,
         "bug_type": "",
+        "config_script": "",
+        "build_script": "",
+        "test_script": "run_test",
         "difficulty": "Medium",
         "test_framework": "mocha",
         "language": "javascript"
     },
     {
-        "id": 26,
+        "id": 22,
         "subject": "minimum-operations-to-make-the-integer-zero",
         "bug_id": "bug_3",
         "source_file": "solution.js",
         "line_numbers": [],
-        "passing_test": ["test_1.js::test_1"],
-        "failing_test": ["test_0.js::test_0"],
+        "passing_test": [
+            "test_1.js::test_1"
+        ],
+        "failing_test": [
+            "test_0.js::test_0"
+        ],
         "count_neg": "1",
         "count_pos": "1",
         "test_timeout": 5,
