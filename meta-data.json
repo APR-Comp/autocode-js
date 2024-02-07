@@ -23,7 +23,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/count-the-digits-that-divide-a-number/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/count-the-digits-that-divide-a-number/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -54,7 +54,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/count-the-digits-that-divide-a-number/bug_2/src",
+            "root_abspath": "/experiment/aprcompaijs/count-the-digits-that-divide-a-number/bug_2/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -85,7 +85,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/count-the-digits-that-divide-a-number/bug_3/src",
+            "root_abspath": "/experiment/aprcompaijs/count-the-digits-that-divide-a-number/bug_3/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -115,7 +115,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/find-the-array-concatenation-value/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/find-the-array-concatenation-value/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -147,7 +147,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/ways-to-split-array-into-good-subarrays/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/ways-to-split-array-into-good-subarrays/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -179,7 +179,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/ways-to-split-array-into-good-subarrays/bug_2/src",
+            "root_abspath": "/experiment/aprcompaijs/ways-to-split-array-into-good-subarrays/bug_2/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -211,7 +211,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/ways-to-split-array-into-good-subarrays/bug_3/src",
+            "root_abspath": "/experiment/aprcompaijs/ways-to-split-array-into-good-subarrays/bug_3/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -243,7 +243,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/ways-to-split-array-into-good-subarrays/bug_4/src",
+            "root_abspath": "/experiment/aprcompaijs/ways-to-split-array-into-good-subarrays/bug_4/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -275,7 +275,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/special-permutations/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/special-permutations/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -307,7 +307,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/special-permutations/bug_2/src",
+            "root_abspath": "/experiment/aprcompaijs/special-permutations/bug_2/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -339,7 +339,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/special-permutations/bug_3/src",
+            "root_abspath": "/experiment/aprcompaijs/special-permutations/bug_3/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -371,7 +371,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/special-permutations/bug_4/src",
+            "root_abspath": "/experiment/aprcompaijs/special-permutations/bug_4/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -403,7 +403,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/special-permutations/bug_5/src",
+            "root_abspath": "/experiment/aprcompaijs/special-permutations/bug_5/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -434,7 +434,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/relocate-marbles/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/relocate-marbles/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -465,7 +465,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/relocate-marbles/bug_2/src",
+            "root_abspath": "/experiment/aprcompaijs/relocate-marbles/bug_2/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -496,7 +496,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/partition-string-into-minimum-beautiful-substrings/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/partition-string-into-minimum-beautiful-substrings/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -527,7 +527,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/partition-string-into-minimum-beautiful-substrings/bug_2/src",
+            "root_abspath": "/experiment/aprcompaijs/partition-string-into-minimum-beautiful-substrings/bug_2/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -558,7 +558,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/partition-string-into-minimum-beautiful-substrings/bug_3/src",
+            "root_abspath": "/experiment/aprcompaijs/partition-string-into-minimum-beautiful-substrings/bug_3/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -589,7 +589,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/partition-string-into-minimum-beautiful-substrings/bug_4/src",
+            "root_abspath": "/experiment/aprcompaijs/partition-string-into-minimum-beautiful-substrings/bug_4/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -619,7 +619,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/minimum-operations-to-make-the-integer-zero/bug_1/src",
+            "root_abspath": "/experiment/aprcompaijs/minimum-operations-to-make-the-integer-zero/bug_1/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -649,7 +649,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/minimum-operations-to-make-the-integer-zero/bug_2/src",
+            "root_abspath": "/experiment/aprcompaijs/minimum-operations-to-make-the-integer-zero/bug_2/src",
             "entrypoint": {
                 "file": "solution.js"
             }
@@ -678,7 +678,7 @@
         "test_framework": "mocha",
         "language": "javascript",
         "src": {
-            "root_abspath": "/experiment/minimum-operations-to-make-the-integer-zero/bug_3/src",
+            "root_abspath": "/experiment/aprcompaijs/minimum-operations-to-make-the-integer-zero/bug_3/src",
             "entrypoint": {
                 "file": "solution.js"
             }
